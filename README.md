@@ -2,9 +2,9 @@ Using React.JS, Tailwind, Bootstrap, Next.JS
 
 To launch web application: 
 
-npm install
+### 'npm install'
 
-npm start
+### 'npm start'
 
 # Getting Started with Create React App
 
